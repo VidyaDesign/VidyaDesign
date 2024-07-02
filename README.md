@@ -18,13 +18,6 @@
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" aline="center"/>      
     </div>
     <br/ >
-     <p
-      style="
-        color: rgb(154, 45, 255);
-        text-align: center;
-        font-style: italic;
-        font-size: medium;
-      "
-    >
-      Apaixonada por tecnologia, educação e mudar a vida da pessoas
+      <p style="font-size: medium">
+      Apaixonada por tecnologia, educação e mudar a vida da pessoas.
     </p>
