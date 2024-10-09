@@ -20,5 +20,5 @@
     </div>
     <br/ >
      <p style="font-size: medium">
-      Apaixonada por tecnologia, conhecimento e por mudar a vida das pessoas através da programação humanizada.
+      Apaixonada por tecnologia, conhecimento e mudar a vida das pessoas através da programação humanizada.
     </p>
