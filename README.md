@@ -24,6 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 10px;" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin: 10px;" align="center"/>
 </div>
+
 <br />
 
   <p style="font-size: medium">
