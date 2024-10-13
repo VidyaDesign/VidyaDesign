@@ -26,7 +26,9 @@
 </div>
  <br/ >
      <p style="font-size: medium">
-      Apaixonada por tecnologia, conhecimento e mudar a vida das pessoas através da programação humanizada.    
+      Sou apaixonada por tecnologia e conhecimento, com o propósito de transformar a vida das pessoas por meio de uma programação humanizada.   
+     </p> <p style="font-size: medium">
+      Designer por excelência, busco unir funcionalidade e empatia em cada projeto, criando soluções inovadoras e impactantes.    
      </p>
 
  
