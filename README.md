@@ -8,49 +8,61 @@
 
 ## Tecnologias que uso no meu dia
 
-<div style="display:flex;">
-    <br />
-    <div style="padding: 10px;">
+<style>
+    .icon-container {
+        display: flex; /* Ativa o Flexbox */
+        flex-wrap: wrap; /* Permite que as divs se movam para a linha seguinte, se necessário */
+        margin: -10px; /* Remove o espaçamento indesejado da borda */
+    }
+    .icon-wrapper {
+        padding: 10px; /* Define o padding */
+        display: flex; /* Flex para centralizar as imagens */
+        justify-content: center; /* Centraliza o conteúdo horizontalmente */
+        align-items: center; /* Centraliza o conteúdo verticalmente */
+    }
+</style>
+
+<div class="icon-container">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe XD" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" align="center"/>
     </div>
-    <div style="padding: 10px;">
+    <div class="icon-wrapper">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" align="center"/>
     </div>
 </div>
-
 
 <br />
 
