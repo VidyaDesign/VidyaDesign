@@ -8,7 +8,7 @@
 
 ## Tecnologias que uso no meu dia
 
-<div style="display: inline-block;">
+<div style="display:flex;">
     <br />
     <div style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" align="center"/>
